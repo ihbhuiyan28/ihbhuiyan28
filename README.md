@@ -13,7 +13,8 @@ I'm a Computer Science graduate with a growing passion for **Front-end Developme
 
 ## 📫 Let's Connect
 
-Feel free to get in touch by [Email](https://mail.google.com/mail/u/0/) and [LinkedIn](https://www.linkedin.com/in/ihbhuiyan28/)!
+Feel free to get in touch by [Email](mailto:ihbhuiyan28@gmail.com)
+ and [LinkedIn](https://www.linkedin.com/in/ihbhuiyan28/)!
 
 ---
 
